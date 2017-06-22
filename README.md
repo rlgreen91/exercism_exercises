@@ -3,10 +3,9 @@ Take a look at my solutions for exercism!
 
 
 This repo contains my solutions to various exercises on exercism.io. The
-solutions are organized into folders by language, and each solution lives on
-its own branch.  For example, if you want to find my solution to the Hello
-World Javascript exercise, head to the ```/javascript``` folder and check out
-the ```hello_world``` branch.
+solutions are organized into folders by language and then by exercise.  For
+example, if you want to find my solution to the Hello World Javascript
+exercise, head to the ```/javascript/hello-world``` folder.
 
 This repo is primarily to keep track of my efforts to hone my coding skills in
 various languages.  As a result, I am not planning to accept any contributions.
